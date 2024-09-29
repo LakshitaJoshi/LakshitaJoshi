@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lakshita Joshi</h1>
-<h3 align="center">Aspiring Data Scientist/ ML Engineer</h3>
+<h3 align="center">ML Engineer</h3>
 
 - 🌱 I’m currently learning **ML, Statistics**
 
