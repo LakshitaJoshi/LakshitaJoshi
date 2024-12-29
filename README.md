@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lakshita Joshi</h1>
 <h3 align="center">Aspiring ML Engineer</h3>
 
-- 🌱 I’m currently exploring ** Deep Learning **
+- 🌱 I’m currently exploring **Deep Learning**
 
 - 💬 Ask me about **Python, ML, Statistics, SQL**
 
