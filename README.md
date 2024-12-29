@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lakshita Joshi</h1>
 <h3 align="center">Aspiring ML Engineer</h3>
 
-- 🌱 I’m currently learning **ML, Statistics**
+- 🌱 I’m currently exploring Deep Learning ****
 
-- 💬 Ask me about **Python, SQL**
+- 💬 Ask me about **Python, ML, Statistics, SQL**
 
 - 📫 How to reach me **jlakshita2002@gmail.com**
 
